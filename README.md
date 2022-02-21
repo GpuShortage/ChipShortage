@@ -1,0 +1,2 @@
+# ChipShortage
+shortage of gpu
